@@ -1,0 +1,21 @@
+* {
+  font-size: 40px;
+  color: white;
+}
+
+.parent {
+  background-color: orange;
+  padding: 20px;
+}
+
+.child-one {
+  background-color: green;
+}
+
+.child-two {
+  background-color: purple;
+}
+
+.child-three {
+  background-color: blue;
+}
