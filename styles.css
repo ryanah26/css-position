@@ -8,13 +8,13 @@
   background-color: orange;
   padding: 20px;
   margin: 20px;
+  position: relative;
 }
 
 .child-one {
   background-color: green;
-  position: relative;
-  left: 10px;
-  top: 10px;
+  position: absolute;
+  top: 100px;
 }
 
 .child-two {
