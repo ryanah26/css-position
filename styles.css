@@ -14,8 +14,8 @@
 
 .child-one {
   background-color: green;
-  position: fixed;
-  top: 100px;
+  position: sticky;
+  top: 0px;
 }
 
 .child-two {
