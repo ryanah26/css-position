@@ -9,11 +9,12 @@
   padding: 20px;
   margin: 20px;
   position: relative;
+  height: 3000px;
 }
 
 .child-one {
   background-color: green;
-  position: absolute;
+  position: fixed;
   top: 100px;
 }
 
